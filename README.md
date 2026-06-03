@@ -1,6 +1,6 @@
 # 📷 Galeria
 
-Mobilna aplikacja galerii zdjęć napisana w **React Native** z użyciem **Expo**. Umożliwia przeglądanie zdjęć, robienie fotek aparatem oraz edycję zdjęć przy użyciu filtrów.
+Mobilna aplikacja galerii zdjęć napisana w **React Native** z użyciem **Expo**. Umożliwia przeglądanie zdjęć, robienie zdjęć aparatem oraz ich edycję przy użyciu filtrów.
 
 ---
 
